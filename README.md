@@ -131,4 +131,4 @@ Miért Válaszd a Spinsy Casinót?
 <li>24/7 Ügyfélszolgálat: Professzionális, magyar nyelvű támogatás élő chaten keresztül.</li>
 A Spinsy Casino az egyik legátfogóbb online játéktapasztalatot nyújtja azoknak, akik egy megbízható kaszinót keresnek. Játékaik között népszerű címek találhatóak, mint például "Outback Odyssey", "Reef Riches" és "Bushfire Bonanza", amelyek rendszeresen az iparági átlagot meghaladó kifizetési arányokat kínálnak.
 Az üdvözlő bónusz csomag nagylelkű párosítási ajánlatot tartalmaz, ésszerű, 40-szeres fogadási követelményekkel, amely ideális mind új, mind tapasztalt játékosok számára. A rendszeres játékosokat újratöltési bónuszok, heti cashback ajánlatok és jutalmazó hűségprogram várja.
-<a href="#" class="myButton">green</a>
+<a href="https://example.com" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Click Me</a>
