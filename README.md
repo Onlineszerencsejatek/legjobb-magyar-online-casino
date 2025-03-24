@@ -295,3 +295,22 @@ Az üdvözlő bónuszok értékelésekor fontos szempontok:
 <li>Fogadási követelmények: Alacsonyabb követelmények megkönnyítik a nyeremények kifizetését.</li>
 <li>Játékok korlátozása: Mely játékok számítanak bele a fogadási követelmények teljesítésébe.</li>
 <li>Időkorlátok: Mennyi idő áll rendelkezésre a bónusz felhasználására és teljesítésére.</li>
+<h3>Ingyenes pörgetések</h3>
+Az ingyenes pörgetések lehetővé teszik, hogy nyerőgépeken játssz anélkül, hogy a saját pénzedet használnád, miközben valódi pénzt nyerhetsz. Ezek az ajánlatok több formában is elérhetők:
+
+<li>Regisztrációs ingyen pörgetések: Egyszerűen a regisztrációért járnak.</li>
+<li>Befizetéshez kötött ingyen pörgetések: Minősítő befizetésekkel szerezhetők meg.</li>
+<li>Fogadási kötelezettség nélküli pörgetések: A nyeremények készpénzben kerülnek jóváírásra, fogadási követelmények nélkül.</li>
+<li>Napi/heti ingyen pörgetések: Rendszeres promóciók meglévő játékosok számára.</li>
+<h3>Cashback és Reload bónuszok</h3>
+Ezek a promóciók értéket biztosítanak a rendszeres játékosok számára:
+
+<li>Cashback: A veszteségek egy bizonyos időszakon belül visszatérített százaléka.</li>
+<li>Újratöltési bónuszok: Befizetési ajánlatok az üdvözlő bónusz után.</li>
+<h3>VIP és hűségprogramok</h3>
+A legjobb online kaszinók hűségprogramokon keresztül jutalmazzák a lojális játékosokat:
+
+<li>Pontgyűjtő rendszerek: Játék közben pontokat szerezhetsz, amelyeket bónuszokra válthatsz be.</li>
+<li>Szintalapú programok: Ahogy haladsz a szinteken, egyre jobb jutalmakat érhetsz el.</li>
+<li>Személyes fiókkezelők: Kiemelt játékosok számára dedikált szolgáltatás.</li>
+<li>Exkluzív promóciók: Különleges ajánlatok, amelyek kizárólag VIP tagok számára érhetők el.</li>
