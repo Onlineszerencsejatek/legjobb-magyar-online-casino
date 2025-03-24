@@ -121,6 +121,4 @@ A listánkon szereplő összes online kaszinót alaposan átvizsgáltuk ezen kri
 <h2>Top 5 legjobb online kaszinók Magyarország 2025</h2>
 Kiterjedt tesztelés és értékelés után ez a top 5 legjobb online kaszinó oldal a magyar játékosok számára 2025-ben:
 <h3>Spinsy - Magyarország legjobb online kaszinó oldala</h3>
-![spinsy](https://github.com/user-attachments/assets/8115e6f1-034c-4b17-a1fb-4031f94f89dd)
-
 <img src="https://github.com/user-attachments/assets/8115e6f1-034c-4b17-a1fb-4031f94f89dd" alt="QuickWin Casino" data-canonical-src="https://imgur.com/a/VFaveXC" style="max-width: 100%;">
