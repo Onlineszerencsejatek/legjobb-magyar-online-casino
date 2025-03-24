@@ -121,6 +121,8 @@ Mielőtt belemerülnénk a legjobb magyar online kaszinók részletes értékel�
 
 A listánkon szereplő összes online kaszinót alaposan átvizsgáltuk ezen kritériumok alapján, hogy biztosítsuk, hogy megfelelnek a legmagasabb követelményeknek az ausztrál játékosok számára.
 <h2>Top 5 legjobb online kaszinók Magyarország 2025</h2>
+<img src="https://github.com/user-attachments/assets/66900dae-e85e-4815-b63e-bcc226c92fc5" alt="Legjobb online casino" style="max-width: 100%;">
+
 Kiterjedt tesztelés és értékelés után ez a top 5 legjobb online kaszinó oldal a magyar játékosok számára 2025-ben:
 <h3>Spinsy - Magyarország legjobb online kaszinó oldala</h3>
 <img src="https://github.com/user-attachments/assets/8115e6f1-034c-4b17-a1fb-4031f94f89dd" alt="Spinsy Casino" style="max-width: 100%;">
