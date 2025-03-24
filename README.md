@@ -121,4 +121,4 @@ A listánkon szereplő összes online kaszinót alaposan átvizsgáltuk ezen kri
 <h2>Top 5 legjobb online kaszinók Magyarország 2025</h2>
 Kiterjedt tesztelés és értékelés után ez a top 5 legjobb online kaszinó oldal a magyar játékosok számára 2025-ben:
 <h3>Spinsy - Hungarys legjobb online kaszinó oldal</h3>
-<img src="https://prnt.sc/YidMSbLOTMbS" alt="Spinsy Casino" style="max-width: 100%;">
+<img src="https://imagekit.io/tools/asset-public-link?detail=%7B%22name%22%3A%22spinsy.png%22%2C%22type%22%3A%22image%2Fpng%22%2C%22signedurl_expire%22%3A%222028-03-23T09%3A05%3A44.541Z%22%2C%22signedUrl%22%3A%22https%3A%2F%2Fmedia-hosting.imagekit.io%2F%2Fafd84cdbf5494b93%2Fspinsy.png%3FExpires%3D1837415145%26Key-Pair-Id%3DK2ZIVPTIP2VGHC%26Signature%3DdKeJKaPUTO9oJPvqreyURuOse0zITGQzPW16KuJfHf5DlLlwdDjTuHTHXNp3nqjkAYyAnyM6gn7T-H195y4UiSp4ALHuBwyB5h4n-3jMAWxuX3reueVs-uHYYrxKdDaZ39xUH53yWtAv8q5Ck18runK7OkI0zFH5QX9g2W5rALXsrsCeoig8n1iOZbuNhHR5JHONM5ZT1pktk7JJBnYxaRSxHk0jzvH9AF9cFzpit9mldX0v~~I3uYonX4EK340MBUC24JhAKDawzuJPmrvWDpgVwd4UKEj2JFKaAxXMpAV8eH5t9AwhEUBEdVdKkLmhxUEZjpgqO9i4Wf5JsI1A6Q__%22%7D" alt="Spinsy Casino" style="max-width: 100%;">
