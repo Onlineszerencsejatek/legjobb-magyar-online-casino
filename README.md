@@ -109,6 +109,7 @@ Keresi a <strong>legjobb magyar online casino</strong> kínálatát 2025-ben? Az
 </div>
 <h2>Így értékeljük a legjobb online kaszinó oldalakat</h2>
 Mielőtt belemerülnénk a legjobb magyar online kaszinók részletes értékelésébe, fontos megérteni az értékelési kritériumainkat. Az online kaszinóoldalak értékelésénél figyelembe vesszük a következőket:
+
 <li>Licencelés és biztonság: Minden ajánlott online kaszinó rendelkezik a tekintélyes szabályozó hatóságok érvényes engedélyével.</li>
 <li>Játékválaszték: Pokék, asztali játékok és élő osztós játékok választéka a legjobb szoftverszolgáltatóktól.</li>
 <li>Üdvözlő bónusz és promóciók: Nagyvonalú bónuszok tisztességes feltételekkel és fogadási követelményekkel</li>
