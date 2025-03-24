@@ -116,7 +116,6 @@ Mielőtt belemerülnénk a legjobb magyar online kaszinók részletes értékel�
 <li>Ügyfélszolgálat: Reagáló és segítőkész 24/7 ügyfélszolgálat</li>
 <li>Mobil kompatibilitás: Zökkenőmentes játékélmény okostelefonokon és táblagépeken</li>
 <li>Kifizetési arányok: Magasabb RTP (Return to Player) százalékos arányok a játékokban</li>
-
-A listánkon szereplő összes online kaszinót alaposan átvizsgáltuk ezen kritériumok alapján, hogy biztosítsuk, hogy megfelelnek a legmagasabb követelményeknek az ausztrál játékosok számára.
+<p>A listánkon szereplő összes online kaszinót alaposan átvizsgáltuk ezen kritériumok alapján, hogy biztosítsuk, hogy megfelelnek a legmagasabb követelményeknek az ausztrál játékosok számára.</p>
 
  
