@@ -314,3 +314,13 @@ A legjobb online kaszinók hűségprogramokon keresztül jutalmazzák a lojális
 <li>Szintalapú programok: Ahogy haladsz a szinteken, egyre jobb jutalmakat érhetsz el.</li>
 <li>Személyes fiókkezelők: Kiemelt játékosok számára dedikált szolgáltatás.</li>
 <li>Exkluzív promóciók: Különleges ajánlatok, amelyek kizárólag VIP tagok számára érhetők el.</li>
+<h2>Biztonságos és felelősségteljes szerencsejáték az online kaszinókban</h2>
+Míg az online kaszinók szórakozást nyújtanak, fontos, hogy felelősségteljesen közelítsük meg a szerencsejátékot. A megbízható online kaszinók Magyarországon különféle eszközöket kínálnak a kontroll megőrzésére:
+
+<li>Befizetési limitek: Napi, heti vagy havi befizetési korlátok beállítása.</li>
+<li>Veszteséglimitek: Meghatározott időszakon belül korlátozható az elveszthető összeg.</li>
+<li>Játékidő-korlátok: Értesítések fogadása egy adott játékidő elteltével.</li>
+<li>Önkizárási lehetőségek: Fiókhoz való hozzáférés ideiglenes vagy végleges letiltása.</li>
+<li>Valóságellenőrzések: Rendszeres emlékeztetők arról, hogy mennyi időt töltöttél játékkal.</li>
+
+Ha te vagy valaki, akit ismersz, szerencsejáték-függőséggel küzd, a Gambling Help Online vagy hasonló források támogatást és segítséget nyújthatnak.
