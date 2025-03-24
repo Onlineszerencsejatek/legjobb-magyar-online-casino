@@ -125,4 +125,4 @@ Kiterjedt tesztelés és értékelés után ez a top 5 legjobb online kaszinó o
 <img src="https://github.com/user-attachments/assets/8115e6f1-034c-4b17-a1fb-4031f94f89dd" alt="QuickWin Casino" data-canonical-src="https://imgur.com/a/VFaveXC" style="max-width: 100%;">
 
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/449125e56431e1ae9b4165fa0756f61c8de31cbec989e01deec4a432a5c296be/68747470733a2f2f692e696d6775722e636f6d2f583230596656452e706e67"><img src="https://github.com/user-attachments/assets/8115e6f1-034c-4b17-a1fb-4031f94f89dd" alt="Spinsy Casino" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.magyaronlinecasino.com/jatssz/spinsy-casino/"><img src="https://github.com/user-attachments/assets/8115e6f1-034c-4b17-a1fb-4031f94f89dd" alt="Spinsy Casino" style="max-width: 100%;"></a>
