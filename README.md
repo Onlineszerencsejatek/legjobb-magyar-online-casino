@@ -262,6 +262,8 @@ Az azonnal reagáló ügyfélszolgálat kulcsfontosságú a problémák gyors me
 <li>Telefonos támogatás</li>
 <li>Átfogó GYIK szekciók</li>
 <h2>Népszerű online kaszinó játékok Magyarok számára</h2>
+<img src="https://github.com/user-attachments/assets/0deb5b19-6e29-4674-be69-10875e8be4e2" alt="Legjobb online casino" style="max-width: 100%;">
+
 A magyar játékosok széles választékban élvezhetik az online kaszinójátékokat, és bizonyos kategóriák különösen népszerűek:
 <h3>Nyerőgépek</h3>
 A nyerőgépek továbbra is a legnépszerűbb lehetőséget jelentik a magyar online kaszinókban. Ezek a játékok magával ragadó témákat, izgalmas funkciókat és jelentős nyeremények lehetőségét kínálják. Népszerű kategóriák:
