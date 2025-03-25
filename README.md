@@ -35,7 +35,7 @@ Frissítve: <time datetime="2025-03-24T12:24:23+01:00">24.03.2025</time>
             </tr>
             <tr class=" py-0">
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">2</td>
-                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="#" target="_blank">BassBet</a></td>
+                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="https://bit.ly/bassbet-hu" target="_blank">BassBet</a></td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4.8/5⭐</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">100% akár 150,000 Ft + 1 Bonus Crab</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">9000+</td>
