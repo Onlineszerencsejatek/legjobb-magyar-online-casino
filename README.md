@@ -27,7 +27,7 @@ Frissítve: <time datetime="2025-03-24T12:24:23+01:00">24.03.2025</time>
         <tbody class="bg-white text-gray-500 bg-[#FFFFFF] text-[#6b7280]" style="background-color: #FFFFFF; color: #6b7280;">
             <tr class=" py-0">
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">1</td>
-                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="#" target="_blank">Spinsy</a></td>
+                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="https://bit.ly/spinsy-hun" target="_blank">Spinsy</a></td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4.9/5⭐</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">100% akár 150,000 Ft</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4500+</td>
