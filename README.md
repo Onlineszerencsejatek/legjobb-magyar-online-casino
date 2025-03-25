@@ -43,7 +43,7 @@ Frissítve: <time datetime="2025-03-24T12:24:23+01:00">24.03.2025</time>
             </tr>
             <tr class=" py-0">
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">3</td>
-                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="#" target="_blank">RTbet</a></td>
+                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="https://bit.ly/rtbet-hu" target="_blank">RTbet</a></td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4.7/5⭐</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">100% akár 150,000 Ft + 1 Bonus Crab</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">3500+</td>
@@ -51,7 +51,7 @@ Frissítve: <time datetime="2025-03-24T12:24:23+01:00">24.03.2025</time>
             </tr>
             <tr class=" py-0">
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4</td>
-                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="#" target="_blank">Cashed</a></td>
+                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="https://bit.ly/cashed-hu" target="_blank">Cashed</a></td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4.6/5⭐</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">100% akár 150,000 Ft</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4000+</td>
@@ -59,7 +59,7 @@ Frissítve: <time datetime="2025-03-24T12:24:23+01:00">24.03.2025</time>
             </tr>
             <tr class=" py-0">
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">5</td>
-                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="#" target="_blank">Wild Robin</a></td>
+                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="https://bit.ly/wild-robin-hu" target="_blank">Wild Robin</a></td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4.5/5⭐</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">200% akár 150,000 Ft + 1 Bonus Crab</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4000+</td>
@@ -67,7 +67,7 @@ Frissítve: <time datetime="2025-03-24T12:24:23+01:00">24.03.2025</time>
             </tr>
             <tr class=" py-0">
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">6</td>
-                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="#" target="_blank">Boomerang</a></td>
+                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="https://bit.ly/boomerang-hu" target="_blank">Boomerang</a></td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4.4/5⭐</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">100% akár 150,000 Ft</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4000+</td>
@@ -75,7 +75,7 @@ Frissítve: <time datetime="2025-03-24T12:24:23+01:00">24.03.2025</time>
             </tr>
             <tr class=" py-0">
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">7</td>
-                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="#" target="_blank">Playio</a></td>
+                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="https://bit.ly/playio-hu" target="_blank">Playio</a></td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4.3/5⭐</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">100% akár 150,000 Ft</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">3500+</td>
@@ -83,7 +83,7 @@ Frissítve: <time datetime="2025-03-24T12:24:23+01:00">24.03.2025</time>
             </tr>
             <tr class=" py-0">
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">8</td>
-                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="#" target="_blank">Great Spin</a></td>
+                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="https://bit.ly/great-spin-hu" target="_blank">Great Spin</a></td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4.2/5⭐</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">100% akár 400,000 Ft</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">2500+</td>
@@ -91,7 +91,7 @@ Frissítve: <time datetime="2025-03-24T12:24:23+01:00">24.03.2025</time>
             </tr>
             <tr class=" py-0">
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">9</td>
-                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="#" target="_blank">CasinoLab</a></td>
+                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="https://bit.ly/casinolab-hu" target="_blank">CasinoLab</a></td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4.1/5⭐</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">100% akár 150,000 Ft + 1 Bonus Crab</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4000+</td>
@@ -99,7 +99,7 @@ Frissítve: <time datetime="2025-03-24T12:24:23+01:00">24.03.2025</time>
             </tr>
             <tr class=" py-0">
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">10</td>
-                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="#" target="_blank">Fat Pirate</a></td>
+                <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4"><a href="https://bit.ly/fat-pirate-hu" target="_blank">Fat Pirate</a></td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4.0/5⭐</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">100% akár 150,000 Ft</td>
                 <td contenteditable="true" class=" py-0 border border-gray-200 text-center  p-4">4000+</td>
